@@ -1,6 +1,6 @@
 # Let-s-learn-Basic-Python
 
-Objective Statement 
+# Objective Statement 
 - Get insight into Dynamic Typing in python programming
 -  Get insight into data type conversion in python programming
 - Get insight into input, output in Python
@@ -15,10 +15,10 @@ Objective Statement
 - Get insight into the syntax of all operators in python, operands, and expressions implementation
 - Get insight into conditional expressions in python
 
-Challenges 
+# Challenges 
 - Syntax in python is case sensitive, therefore accuracy is needed in using syntax to perform an operation. 
 
-Methodology
+# Methodology
 - Syntax for dynamic typing python
 - Syntax for the operator in python, operand, and also expressions
 - Syntax for data type conversion in python
@@ -35,7 +35,7 @@ Methodology
 - Syntax for the operator in python, operand, and also expressions
 - Operations for conditional expressions
 
-Benefit 
+# Benefit 
 - Understand how to do dynamic typing in python
 - Understand how to use data type conversion in python
 - Understand how to do input and output in python
@@ -47,7 +47,7 @@ Benefit
 - Understand how to do expressions with operand and operator in python
 - Understand how to perform operations on conditional expressions
 
-Expected Outcome
+# Expected Outcome
 - Knowing the syntax used to perform dynamic typing in python
 - Knowing the syntax used to perform data type conversion in python
 - Knowing the syntax used to perform input-output in python
